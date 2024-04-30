@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"types.h": "c",
+			"stat.h": "c",
+			"unistd.h": "c",
+			"fcntl.h": "c"
+		}
+	}
+}
