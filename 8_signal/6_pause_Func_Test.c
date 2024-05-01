@@ -24,6 +24,7 @@ int main (int argc, char *argv[])
         return 1;
     }
 
+    /* Set Alarm */
     second = atoi(argv[1]);
     printf("Timer : %d sec\r\n", second);
     alarm(second);
