@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/16_srand.dir/16_srand_Test.c.o -o ../bin/16_srand 

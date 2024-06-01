@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/5_time.dir/5_time_test.c.o -o ../bin/5_time 

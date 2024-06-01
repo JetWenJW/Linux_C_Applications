@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/4_raiseFunc.dir/4_raise_Test.c.o -o ../bin/4_raiseFunc 

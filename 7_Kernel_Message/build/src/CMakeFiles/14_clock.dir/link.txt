@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/14_clock.dir/14_clock_test.c.o -o ../bin/14_clock 

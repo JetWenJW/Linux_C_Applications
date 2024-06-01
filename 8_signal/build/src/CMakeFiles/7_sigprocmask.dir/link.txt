@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/7_sigprocmask.dir/7_sigprocmask_test.c.o -o ../bin/7_sigprocmask 

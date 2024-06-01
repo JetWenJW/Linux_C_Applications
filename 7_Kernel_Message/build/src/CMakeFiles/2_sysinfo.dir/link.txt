@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/2_sysinfo.dir/2_sysinfo_test.c.o -o ../bin/2_sysinfo 

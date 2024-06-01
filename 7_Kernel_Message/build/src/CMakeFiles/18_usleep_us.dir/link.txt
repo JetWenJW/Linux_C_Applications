@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/18_usleep_us.dir/18_usleep_us_test.c.o -o ../bin/18_usleep_us 

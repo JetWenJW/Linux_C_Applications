@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/5_alarm.dir/5_alarm_func_test.c.o -o ../bin/5_alarm 

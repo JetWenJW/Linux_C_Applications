@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/6_pauseFunc.dir/6_pause_Func_Test.c.o -o ../bin/6_pauseFunc 

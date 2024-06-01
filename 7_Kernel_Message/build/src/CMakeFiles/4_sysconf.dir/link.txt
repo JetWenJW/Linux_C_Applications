@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/4_sysconf.dir/4_sysconf_Test.c.o -o ../bin/4_sysconf 

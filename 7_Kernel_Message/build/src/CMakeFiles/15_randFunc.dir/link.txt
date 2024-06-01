@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/15_randFunc.dir/15_rand_Test.c.o -o ../bin/15_randFunc 

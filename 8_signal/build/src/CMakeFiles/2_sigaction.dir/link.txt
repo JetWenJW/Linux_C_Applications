@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/2_sigaction.dir/2_sigaction_test.c.o -o ../bin/2_sigaction 

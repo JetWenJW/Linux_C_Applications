@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/3_killFunc.dir/3_kill_func_test.c.o -o ../bin/3_killFunc 

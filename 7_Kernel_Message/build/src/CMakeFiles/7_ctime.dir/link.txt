@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/7_ctime.dir/7_ctime_Test.c.o -o ../bin/7_ctime 
