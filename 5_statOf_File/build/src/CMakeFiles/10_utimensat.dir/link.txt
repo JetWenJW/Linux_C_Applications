@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/10_utimensat.dir/10_utimensat_Func_Test.c.o -o ../bin/10_utimensat 

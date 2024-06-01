@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/10_fileno_Func.dir/10_fileno_func_Test.c.o -o ../bin/10_fileno_Func 

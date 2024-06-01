@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/3_ErrorNumber.dir/3_ErrorNumber.c.o -o ../bin/3_ErrorNumber 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/2_feof_ferror_Func.dir/2_feof_ferror_func_Test.c.o -o ../bin/2_feof_ferror_Func 

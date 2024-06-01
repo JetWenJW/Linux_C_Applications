@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/7_truncate_Func.dir/7_truncate_func_test.c.o -o ../bin/7_truncate_Func 

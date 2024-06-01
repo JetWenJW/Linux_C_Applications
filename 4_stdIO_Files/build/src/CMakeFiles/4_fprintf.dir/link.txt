@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/4_fprintf.dir/4_fprintf_test.c.o -o ../bin/4_fprintf 

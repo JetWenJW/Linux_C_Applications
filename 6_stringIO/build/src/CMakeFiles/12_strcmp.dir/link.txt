@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/12_strcmp.dir/12_strcmp_test.c.o -o ../bin/12_strcmp 

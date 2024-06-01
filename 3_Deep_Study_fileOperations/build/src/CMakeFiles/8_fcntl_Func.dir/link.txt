@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/8_fcntl_Func.dir/8_fcntl_func_test.c.o -o ../bin/8_fcntl_Func 

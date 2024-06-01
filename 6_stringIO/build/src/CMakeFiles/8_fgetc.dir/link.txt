@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/8_fgetc.dir/8_fgetc_Test.c.o -o ../bin/8_fgetc 

@@ -1,0 +1,8 @@
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/1_file_operations/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/1_file_operations/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/1_file_operations/build/src/CMakeFiles/1_read.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/1_file_operations/build/src/CMakeFiles/2_write.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/1_file_operations/build/src/CMakeFiles/3_ErrorNumber.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/1_file_operations/build/src/CMakeFiles/4_Void_File.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/1_file_operations/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/1_file_operations/build/src/CMakeFiles/rebuild_cache.dir

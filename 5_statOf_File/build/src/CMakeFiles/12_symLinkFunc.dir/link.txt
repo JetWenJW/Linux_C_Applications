@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/12_symLinkFunc.dir/12_symLink_func_Test.c.o -o ../bin/12_symLinkFunc 

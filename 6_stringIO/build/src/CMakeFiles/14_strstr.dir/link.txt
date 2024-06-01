@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/14_strstr.dir/14_strstr_Test.c.o -o ../bin/14_strstr 

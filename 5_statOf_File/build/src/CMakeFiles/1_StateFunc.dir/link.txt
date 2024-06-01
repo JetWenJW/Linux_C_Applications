@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/1_StateFunc.dir/1_stateFunc_Test.c.o -o ../bin/1_StateFunc 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/7_utime_Func.dir/7_utime_Func_Test.c.o -o ../bin/7_utime_Func 

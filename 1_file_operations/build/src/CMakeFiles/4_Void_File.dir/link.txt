@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/4_Void_File.dir/4_void_file.c.o -o ../bin/4_Void_File 

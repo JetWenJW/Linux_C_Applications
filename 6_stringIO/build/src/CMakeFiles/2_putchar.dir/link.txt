@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/2_putchar.dir/2_putchar_Test.c.o -o ../bin/2_putchar 

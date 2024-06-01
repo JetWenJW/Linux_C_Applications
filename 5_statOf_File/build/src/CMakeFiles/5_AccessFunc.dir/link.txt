@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/5_AccessFunc.dir/5_access_Func_Test.c.o -o ../bin/5_AccessFunc 

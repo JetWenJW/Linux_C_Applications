@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/11_LinkFunc.dir/11_Link_Func_Test.c.o -o ../bin/11_LinkFunc 

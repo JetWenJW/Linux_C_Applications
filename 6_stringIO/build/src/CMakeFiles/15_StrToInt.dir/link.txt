@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/15_StrToInt.dir/15_StrToInt.c.o -o ../bin/15_StrToInt 
