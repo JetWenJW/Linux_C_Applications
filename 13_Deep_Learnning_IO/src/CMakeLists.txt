@@ -1,0 +1,5 @@
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+add_executable(1_mmap_munmapFunc 1_mmap_munmap_test.c)
+add_executable(2_flockFunc 2_flock_Test.c)
+add_executable(3_flockFunc 3_flock_test.c)
+add_executable(4_fcntl 4_fcntl_test.c)

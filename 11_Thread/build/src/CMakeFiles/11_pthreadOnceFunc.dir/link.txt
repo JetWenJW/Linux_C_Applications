@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/11_pthreadOnceFunc.dir/11_pthread_once_Test.c.o -o ../bin/11_pthreadOnceFunc 

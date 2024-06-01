@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/19_newProgram.dir/19_newProgram.c.o -o ../bin/19_newProgram 

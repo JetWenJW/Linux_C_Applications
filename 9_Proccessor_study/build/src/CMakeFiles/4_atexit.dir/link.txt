@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/4_atexit.dir/4_atexit_test.c.o -o ../bin/4_atexit 

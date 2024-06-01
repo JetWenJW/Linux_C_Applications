@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/4_MutexDestroyFunc.dir/4_MutexDestroy.c.o -o ../bin/4_MutexDestroyFunc 

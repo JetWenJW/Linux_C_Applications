@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/9_pthread_cleanup_pop.dir/9_pthread_cleanup_pop_test.c.o -o ../bin/9_pthread_cleanup_pop 

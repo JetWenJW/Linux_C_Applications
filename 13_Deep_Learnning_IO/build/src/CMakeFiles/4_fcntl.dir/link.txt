@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/4_fcntl.dir/4_fcntl_test.c.o -o ../bin/4_fcntl 

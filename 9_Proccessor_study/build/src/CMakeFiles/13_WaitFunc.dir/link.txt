@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/13_WaitFunc.dir/13_wait_test.c.o -o ../bin/13_WaitFunc 

@@ -1,0 +1,8 @@
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/13_Deep_Learnning_IO/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/13_Deep_Learnning_IO/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/13_Deep_Learnning_IO/build/src/CMakeFiles/1_mmap_munmapFunc.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/13_Deep_Learnning_IO/build/src/CMakeFiles/2_flockFunc.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/13_Deep_Learnning_IO/build/src/CMakeFiles/3_flockFunc.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/13_Deep_Learnning_IO/build/src/CMakeFiles/4_fcntl.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/13_Deep_Learnning_IO/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/13_Deep_Learnning_IO/build/src/CMakeFiles/rebuild_cache.dir

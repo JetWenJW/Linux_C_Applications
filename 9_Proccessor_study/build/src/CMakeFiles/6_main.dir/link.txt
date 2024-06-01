@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/6_main.dir/6_main_test.c.o -o ../bin/6_main 

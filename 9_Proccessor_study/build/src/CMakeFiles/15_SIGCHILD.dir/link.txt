@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/15_SIGCHILD.dir/15_SIGCHILD.c.o -o ../bin/15_SIGCHILD 

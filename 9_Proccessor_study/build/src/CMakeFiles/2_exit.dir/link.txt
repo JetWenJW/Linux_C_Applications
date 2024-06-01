@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/2_exit.dir/2__exit_test.c.o -o ../bin/2_exit 

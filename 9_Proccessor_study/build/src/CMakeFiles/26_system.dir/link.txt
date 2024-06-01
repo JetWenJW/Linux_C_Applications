@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/26_system.dir/26_system_test.c.o -o ../bin/26_system 

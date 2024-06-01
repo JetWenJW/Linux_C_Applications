@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/3_pthread_joinFunc.dir/3_pthread_join_test.c.o -o ../bin/3_pthread_joinFunc 

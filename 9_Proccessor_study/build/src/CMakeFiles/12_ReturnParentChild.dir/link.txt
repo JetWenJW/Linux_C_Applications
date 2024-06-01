@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/12_ReturnParentChild.dir/12_return_parent_child.c.o -o ../bin/12_ReturnParentChild 

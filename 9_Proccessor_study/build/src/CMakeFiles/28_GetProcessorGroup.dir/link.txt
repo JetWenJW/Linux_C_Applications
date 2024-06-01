@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/28_GetProcessorGroup.dir/28_getpgrp_test.c.o -o ../bin/28_GetProcessorGroup 

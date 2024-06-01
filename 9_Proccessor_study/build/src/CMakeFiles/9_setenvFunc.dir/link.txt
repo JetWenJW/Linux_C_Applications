@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/9_setenvFunc.dir/9_setenv_test.c.o -o ../bin/9_setenvFunc 
