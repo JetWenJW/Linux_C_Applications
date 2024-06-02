@@ -1,0 +1,7 @@
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/16_GPIO/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/16_GPIO/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/16_GPIO/build/src/CMakeFiles/1_GPIO_Output.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/16_GPIO/build/src/CMakeFiles/2_GPIO_Input.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/16_GPIO/build/src/CMakeFiles/3_GPIO_Interrupt.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/16_GPIO/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/16_GPIO/build/src/CMakeFiles/rebuild_cache.dir
