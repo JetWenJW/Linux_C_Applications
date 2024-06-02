@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/2_IPAddress.dir/2_inet_ntop.c.o -o ../bin/2_IPAddress 

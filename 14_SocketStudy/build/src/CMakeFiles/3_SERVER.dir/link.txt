@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/3_SERVER.dir/3_socket_server.c.o -o ../bin/3_SERVER 
