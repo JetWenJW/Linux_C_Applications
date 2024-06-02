@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/LED.dir/LED.c.o -o ../bin/LED 
