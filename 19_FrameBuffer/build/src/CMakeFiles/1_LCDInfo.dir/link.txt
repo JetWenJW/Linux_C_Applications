@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/1_LCDInfo.dir/1_LCDInfo.c.o -o ../bin/1_LCDInfo 

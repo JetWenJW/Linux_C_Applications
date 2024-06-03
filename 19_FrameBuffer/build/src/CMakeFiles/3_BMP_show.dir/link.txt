@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/3_BMP_show.dir/3_BMP_show.c.o -o ../bin/3_BMP_show 

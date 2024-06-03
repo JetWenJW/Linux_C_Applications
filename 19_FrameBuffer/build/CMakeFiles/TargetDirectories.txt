@@ -1,0 +1,7 @@
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/19_FrameBuffer/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/19_FrameBuffer/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/19_FrameBuffer/build/src/CMakeFiles/1_LCDInfo.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/19_FrameBuffer/build/src/CMakeFiles/2_LCDTest.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/19_FrameBuffer/build/src/CMakeFiles/3_BMP_show.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/19_FrameBuffer/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/19_FrameBuffer/build/src/CMakeFiles/rebuild_cache.dir

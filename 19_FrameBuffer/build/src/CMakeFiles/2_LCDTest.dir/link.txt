@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/2_LCDTest.dir/2_LCDTest.c.o -o ../bin/2_LCDTest 
