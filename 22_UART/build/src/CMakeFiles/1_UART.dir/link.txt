@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/1_UART.dir/1_UART.c.o -o ../bin/1_UART 

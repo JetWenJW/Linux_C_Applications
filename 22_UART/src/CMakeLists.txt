@@ -1,0 +1,3 @@
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+add_executable(1_UART 1_UART.c)
+
