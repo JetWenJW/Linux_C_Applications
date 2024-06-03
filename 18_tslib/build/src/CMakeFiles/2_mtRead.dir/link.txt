@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/2_mtRead.dir/2_mtRead.c.o -o ../bin/2_mtRead 

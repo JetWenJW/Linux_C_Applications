@@ -1,0 +1,6 @@
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/18_tslib/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/18_tslib/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/18_tslib/build/src/CMakeFiles/1_tsRead.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/18_tslib/build/src/CMakeFiles/2_mtRead.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/18_tslib/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/18_tslib/build/src/CMakeFiles/rebuild_cache.dir
