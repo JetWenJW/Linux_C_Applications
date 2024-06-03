@@ -1,0 +1,5 @@
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/21_V4L2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/21_V4L2/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/21_V4L2/build/src/CMakeFiles/1_V4L2Camera.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/21_V4L2/build/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/21_V4L2/build/src/CMakeFiles/rebuild_cache.dir

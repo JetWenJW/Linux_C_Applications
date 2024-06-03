@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/1_V4L2Camera.dir/1_V4L2_camera.c.o -o ../bin/1_V4L2Camera 
