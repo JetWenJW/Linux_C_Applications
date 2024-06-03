@@ -1,0 +1,5 @@
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
+add_executable(1_InputRead 1_InputRead.c)
+add_executable(2_InputReadKey 2_ReadKey.c)
+add_executable(3_InputReadSlot 3_ReadSlot.c)
+add_executable(4_Readts 4_Readts.c)
