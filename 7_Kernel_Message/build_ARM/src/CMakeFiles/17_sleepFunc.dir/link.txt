@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/17_sleepFunc.dir/17_sleep.c.o -o ../bin/17_sleepFunc 

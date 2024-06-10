@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/3_CLIENT.dir/3_socket_client.c.o -o ../bin/3_CLIENT 

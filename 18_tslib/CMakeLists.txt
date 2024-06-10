@@ -1,3 +1,15 @@
 cmake_minimum_required(VERSION 3.5)
+
+set(CMAKE_SYSTEM_NAME Linux)
+set(CMAKE_SYSTEM_PROCESSOR arm)
+set(TOOLCHAIN_DIR /usr/bin)
+
+set(CMAKE_C_COMPILER ${TOOLCHAIN_DIR}/arm-linux-gnueabihf-gcc)
+
+
+set(CMAKE_FIND_ROOT_PATH_MODE_PROGRAM NEVER)
+set(CMAKE_FIND_ROOT_PATH_MODE_LIBRARY ONLY)
+set(CMAKE_FIND_ROOT_PATH_MODE_INCLUDE ONLY)
+
 project(Input_tslib_Control)
 add_subdirectory(src)

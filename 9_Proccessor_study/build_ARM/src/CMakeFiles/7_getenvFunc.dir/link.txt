@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/7_getenvFunc.dir/7_getenv_test.c.o -o ../bin/7_getenvFunc 

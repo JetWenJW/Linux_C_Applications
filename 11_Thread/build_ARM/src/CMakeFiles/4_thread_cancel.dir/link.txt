@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/4_thread_cancel.dir/4_phread_cancel_test.c.o -o ../bin/4_thread_cancel 

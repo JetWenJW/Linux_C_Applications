@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/6_dup_dup2_Func.dir/6_dup_dup2_Func_Test.c.o -o ../bin/6_dup_dup2_Func 

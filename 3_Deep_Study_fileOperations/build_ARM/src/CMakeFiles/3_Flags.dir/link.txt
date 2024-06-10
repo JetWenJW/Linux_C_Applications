@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/3_Flags.dir/3_flags_test.c.o -o ../bin/3_Flags 

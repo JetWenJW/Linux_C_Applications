@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/27_vforkFunc.dir/27_vfork_Test.c.o -o ../bin/27_vforkFunc 

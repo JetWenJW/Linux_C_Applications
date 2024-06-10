@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/3_SendParam.dir/3_SendParameter.c.o -o ../bin/3_SendParam 

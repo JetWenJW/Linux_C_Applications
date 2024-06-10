@@ -7,7 +7,7 @@
 #include <unistd.h>
 
 
-int main (int argc, char argv*[])
+int main (int argc, char *argv[])
 {
     struct input_absinfo info;
     int fd = -1;
@@ -35,7 +35,7 @@ int main (int argc, char argv*[])
 	exit(EXIT_FAILURE);
     }
     
-    max_slots = info.maximim + 1 - info.minimum;
+    max_slots = info.maximum + 1 - info.minimum;
     printf("max_slots: %d\n, max_slots");
 
     /* Exit Close File */

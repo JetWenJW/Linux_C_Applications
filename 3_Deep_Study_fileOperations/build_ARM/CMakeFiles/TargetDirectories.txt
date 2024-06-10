@@ -1,0 +1,12 @@
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/1_ErrorNumber.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/2_VoidFile.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/3_Flags.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/4_OAPPEND.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/5_MultiOpenfile.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/6_dup_dup2_Func.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/7_truncate_Func.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/8_fcntl_Func.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/3_Deep_Study_fileOperations/build_ARM/src/CMakeFiles/rebuild_cache.dir

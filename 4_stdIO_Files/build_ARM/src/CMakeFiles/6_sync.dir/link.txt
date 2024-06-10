@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/6_sync.dir/6_sync_test.c.o -o ../bin/6_sync 

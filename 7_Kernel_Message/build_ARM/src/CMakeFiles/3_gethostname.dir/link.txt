@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/3_gethostname.dir/3_gethostname_Test.c.o -o ../bin/3_gethostname 

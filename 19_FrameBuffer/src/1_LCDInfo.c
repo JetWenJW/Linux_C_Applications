@@ -28,10 +28,10 @@ int main(int argc, char *argv[])
 	   "Pixel Depth(bpp): %d\n"
 	   "Bytes of Oneline: %d\n"
 	   "Pixel Format: R<%d %d>, G<%d %d>, B<%d %d>\n",
-	   fb_var.xres, fb_var.yresfb_var.bits_per_pixel,
+	   fb_var.xres, fb_var.yres, fb_var.bits_per_pixel,
 	   fb_fix.line_length,
 	   fb_var.red.offset, fb_var.red.length,
-	   fb_var.green.offset, fb_var.green.length
+	   fb_var.green.offset, fb_var.green.length,
 	   fb_var.blue.offset, fb_var.blue.length);
 
     close(fd);

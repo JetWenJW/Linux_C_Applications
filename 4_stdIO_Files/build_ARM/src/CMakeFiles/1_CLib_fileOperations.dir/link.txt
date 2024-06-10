@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/1_CLib_fileOperations.dir/1_C_lib_fileOperations.c.o -o ../bin/1_CLib_fileOperations 

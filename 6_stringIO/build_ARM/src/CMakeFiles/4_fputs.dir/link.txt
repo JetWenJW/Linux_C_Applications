@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/4_fputs.dir/4_fputs_Test.c.o -o ../bin/4_fputs 

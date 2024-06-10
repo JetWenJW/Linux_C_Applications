@@ -151,10 +151,10 @@ static int show_bmp_iamge(const char * path)
     
     close(fd);
     free(line_buf);
-    return 0
+    return 0;
 }
 
-int main(argc, char *argv[])
+int main(int argc, char *argv[])
 {
     unsigned int screen_size;
     int fd;

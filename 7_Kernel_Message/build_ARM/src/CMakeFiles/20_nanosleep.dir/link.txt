@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/20_nanosleep.dir/20_nanosleep_test.c.o -o ../bin/20_nanosleep 

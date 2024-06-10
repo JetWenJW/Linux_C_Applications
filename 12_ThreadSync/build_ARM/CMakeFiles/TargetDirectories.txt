@@ -1,0 +1,12 @@
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/1_Compatition.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/2_Mutex.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/3_MutexTryLock.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/4_MutexDestroyFunc.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/5_ConditionVaraiable.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/6_BroadcastAndWait.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/7_SpinLock.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/8_RWLock.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/12_ThreadSync/build_ARM/src/CMakeFiles/rebuild_cache.dir

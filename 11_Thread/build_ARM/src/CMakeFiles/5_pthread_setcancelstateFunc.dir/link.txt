@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/5_pthread_setcancelstateFunc.dir/5_pthread_setcancelstate_Test.c.o -o ../bin/5_pthread_setcancelstateFunc 

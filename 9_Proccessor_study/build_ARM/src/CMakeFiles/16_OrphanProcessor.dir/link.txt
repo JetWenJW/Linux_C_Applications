@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/16_OrphanProcessor.dir/16_orphan_Proc_test.c.o -o ../bin/16_OrphanProcessor 

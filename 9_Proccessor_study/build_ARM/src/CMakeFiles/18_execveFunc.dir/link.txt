@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/18_execveFunc.dir/18_execve_test.c.o -o ../bin/18_execveFunc 

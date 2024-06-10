@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/3_MutexTryLock.dir/3_MutexTryLock.c.o -o ../bin/3_MutexTryLock 

@@ -1,0 +1,14 @@
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/1_CLib_fileOperations.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/2_feof_ferror_Func.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/3_Printf.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/4_fprintf.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/5_scanf.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/6_sync.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/7_direct_IO.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/8_StdioBuffer.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/9_fd_file.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/10_fileno_Func.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/edit_cache.dir
+/mnt/c/Users/kille/OneDrive/桌面/Linux_C_APP/4_stdIO_Files/build_ARM/src/CMakeFiles/rebuild_cache.dir

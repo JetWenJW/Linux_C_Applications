@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/LED.dir/LED.c.o -o ../bin/LED 

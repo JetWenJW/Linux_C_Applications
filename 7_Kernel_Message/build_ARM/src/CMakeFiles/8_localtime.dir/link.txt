@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/8_localtime.dir/8_localtime_Test.c.o -o ../bin/8_localtime 

@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/3_lstatFunc.dir/3_lstat_Func_Test.c.o -o ../bin/3_lstatFunc 

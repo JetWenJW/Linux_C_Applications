@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/31_GetSID.dir/31_getsid_Test.c.o -o ../bin/31_GetSID 

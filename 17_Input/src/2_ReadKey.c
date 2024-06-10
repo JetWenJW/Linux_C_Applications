@@ -31,7 +31,7 @@ int main(int argc, char *argv[])
     while(1)
     {
         /* Read Data */
-        if(suzeof(struct inpur_event) != read(fd, &in_ev, sizeof(struct input_event)))
+        if(sizeof(struct input_event) != read(fd, &in_ev, sizeof(struct input_event)))
 	{
 	    perror("Read Error");
 	    exit(-1);

@@ -103,12 +103,12 @@ static void lcd_fill(unsigned int start_x,
 int main(int argc, char *argv[])
 {
     struct fb_fix_screeninfo fb_fix;
-    struct fb_var_scerrninfo fb_var;
+    struct fb_var_screeninfo fb_var;
     unsigned int screen_size;
     int fd;
 
     /* Open FrameBuffer Device */
-    fd = open("/dev/fb0", O_RDWR)
+    fd = open("/dev/fb0", O_RDWR);
     if(fd < 0)
     {
         perror("Open Error");

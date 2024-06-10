@@ -33,58 +33,57 @@ int main(int argc, char *argv[])
     while(1)
     {
         if(sizeof(struct input_event) != read(fd, &in_ev, sizeof(struct input_event)))
-	{
-	    perror("Read Error");
-	    exit(EXIT_FAILURE);
-	}
+		{
+			perror("Read Error");
+			exit(EXIT_FAILURE);
+		}
     
         switch(in_ev.type)
-	{
-		case EV_KEY:
-			if(BTN_TOUCH == in_ev.code)
-			{
-			    down = in_ev.value;
-			    valid = 1;
-			}
-			break;
-		case EV_ABS:
-			switch(in_ev.code)
-			{
-				case ABS_X:
-					x = in_ev.value;
+		{
+			case EV_KEY:
+				if(BTN_TOUCH == in_ev.code)
+				{
+					down = in_ev.value;
 					valid = 1;
-					break;
-				case ABS_Y:
-					y = in_ev.value;
-					valid = 1;
-					break;
-			}
-			break;
-		case EV_SYN:
-			if(SYN_REPORT == in_ev.code)
-			{
-			    if(valid)
-			    {
-			   	switch(down)
-			    	{
-			    	case 1:
-					printf("Press(%d, %d)\n", x, y);
-					break;
-				case 0:
-					printf("Release\n");
-					break;
-				case -1:
-					printf("Move(%d, %d)\n", x, y);
-					break;
-				}					    	
-			    }	    
-         		    	valid = 0;
-				down = -1;
-			}
+				}
+				break;
+			case EV_ABS:
+				switch(in_ev.code)
+				{
+					case ABS_X:
+						x = in_ev.value;
+						valid = 1;
+						break;
+					case ABS_Y:
+						y = in_ev.value;
+						valid = 1;
+						break;
+				}
+				break;
+			case EV_SYN:
+				if(SYN_REPORT == in_ev.code)
+				{
+					if(valid)
+					{
+						switch(down)
+						{
+						case 1:
+							printf("Press(%d, %d)\n", x, y);
+							break;
+						case 0:
+							printf("Release\n");
+							break;
+						case -1:
+							printf("Move(%d, %d)\n", x, y);
+							break;
+						}					    	
+					}	    
+							valid = 0;
+					down = -1;
+				}
+				break;
+		}
 	}
-	break;
-	}
-    }
 }
 
 

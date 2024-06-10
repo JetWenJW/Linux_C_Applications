@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/1_InputRead.dir/1_InputRead.c.o -o ../bin/1_InputRead 

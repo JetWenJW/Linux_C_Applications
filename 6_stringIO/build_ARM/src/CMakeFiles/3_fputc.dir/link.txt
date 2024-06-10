@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/3_fputc.dir/3_fputc_Test.c.o -o ../bin/3_fputc 

@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/9_fd_file.dir/9_fd_file_transfer.c.o -o ../bin/9_fd_file 

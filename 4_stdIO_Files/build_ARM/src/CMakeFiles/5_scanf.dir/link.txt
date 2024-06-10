@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/5_scanf.dir/5_scanf_test.c.o -o ../bin/5_scanf 

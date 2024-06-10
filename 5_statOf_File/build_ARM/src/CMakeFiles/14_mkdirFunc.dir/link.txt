@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/14_mkdirFunc.dir/14_mkdir_Test.c.o -o ../bin/14_mkdirFunc 

@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/7_SpinLock.dir/7_SpinLock.c.o -o ../bin/7_SpinLock 

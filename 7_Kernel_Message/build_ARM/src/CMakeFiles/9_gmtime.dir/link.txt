@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/9_gmtime.dir/9_gmtime_Test.c.o -o ../bin/9_gmtime 

@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/2_fstatFunc.dir/2_fstat_Test.c.o -o ../bin/2_fstatFunc 

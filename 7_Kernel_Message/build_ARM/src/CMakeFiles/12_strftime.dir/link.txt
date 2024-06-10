@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/12_strftime.dir/12_strftime_Test.c.o -o ../bin/12_strftime 

@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/10_forkFunc.dir/10_fork_test.c.o -o ../bin/10_forkFunc 

@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/20_excelFunc.dir/20_execl_Test.c.o -o ../bin/20_excelFunc 

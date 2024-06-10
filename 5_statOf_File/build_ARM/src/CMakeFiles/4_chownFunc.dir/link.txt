@@ -1,0 +1,1 @@
+/usr/bin/arm-linux-gnueabihf-gcc CMakeFiles/4_chownFunc.dir/4_chown_Func_Test.c.o -o ../bin/4_chownFunc 
